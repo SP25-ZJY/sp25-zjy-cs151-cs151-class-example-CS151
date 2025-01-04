@@ -44,6 +44,6 @@ These code snippets have been prepared by the instructor for use during CS151 cl
 
 Thank you for being a part of the class and for your dedication to learning. Happy coding!
 
-**Instructor: (Zee) Zelalem Jembre Yalew**  
+**Instructor: Zelalem Jembre Yalew**  
 **Course: CS151 - CS151**  
 **Institution: Loyola University Maryland**  
