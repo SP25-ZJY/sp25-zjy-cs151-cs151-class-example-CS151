@@ -1,1 +1,1 @@
-print('Hello CS151!')
+print('Hello World')
