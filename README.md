@@ -17,7 +17,7 @@ The repository includes functions and code snippets covering topics such as:
 - Counting elements in a list based on conditions
 - Basic dictionary concepts
 - Simple algorithms and logic building
-- etc...
+- etc....
 
 ## Purpose
 - These code examples are provided as supplementary learning materials to assist students in practicing and mastering the concepts taught in class. 
