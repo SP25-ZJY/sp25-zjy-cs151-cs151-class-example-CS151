@@ -1,4 +1,4 @@
-def num_input():
+def read_valid_int():
     value = input("Please enter an integer: ")
     while not value.isdigit():
         value = input("Please enter an integer: ")
@@ -10,7 +10,8 @@ def average_grades(total_grades):
 
     print("Please enter each grade.")
     while count < total_grades:
-        number = num_input()
+        print()
+        number = read_valid_int()
         total += number
         count += 1
 
@@ -19,7 +20,7 @@ def average_grades(total_grades):
 
 def main():
     print("How many grades?")
-    num_grades = num_input()
+    num_grades = read_valid_int()
     avg = average_grades(num_grades)
     print("The average grade is", avg)
 

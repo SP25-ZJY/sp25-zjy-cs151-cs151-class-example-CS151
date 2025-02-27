@@ -8,7 +8,6 @@ def input_float():
     while not isfloat(value):
         print("You must enter a valid number with decimal points.")
         value = input("Please enter a new value: ")
-
     return float(value)
 
 
